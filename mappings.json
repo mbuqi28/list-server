@@ -1,14 +1,9 @@
 {
   "mappings": [
     {
-      "title": "Tales of Herding Gods",
-      "animexin_slug": "tales-of-herding-gods",
-      "anichin_slug": "tales-of-herding-gods"
-    },
-    {
       "title": "Shrouding the Heavens",
-      "animexin_slug": "shrounding-the-heavens",
-      "anichin_slug": "shrouding-the-heavens"
+      "animexin_url": "https://animexin.dev/shrounding-the-heavens/",
+      "anichin_url": "https://anichin.cafe/seri/shrouding-the-heavens/"
     }
   ]
 }
